@@ -5,7 +5,7 @@ This is a guide to help users of YT Revanced to keep up with the ever changing Y
 
 **Step 1**: Uninstall YT Revanced (incase you have an older one already installed).\
 **Step 2:** Uninstall Vanced MicroG (You'll find this in your phone settings->apps). If you can't find it, you may skip this step.\
-**Step 3:** Download and install GmsCore (https://github.com/ReVanced/GmsCore)\
+**Step 3:** Download and install GmsCore (https://github.com/ReVanced/GmsCore) \
 **Step 4:** Install the Revanced Manager (in case you don't have one already installed)
 Link for v1.19.3- (https://github.com/ReVanced/revanced-manager/releases/download/v1.19.3/revanced-manager-v1.19.3.apk)\
 **Step 5:** Update Revanced Manager (If an update is available, you'll see the update option after opening the app)\
