@@ -1,4 +1,4 @@
-# How to patch and install YT Revanced Using GmsCore (March 24, 2024) -* by ShashiKPD *
+# How to patch and install YT Revanced Using GmsCore (March 24, 2024) -by ShashiKPD
 This is a guide to help users of YT Revanced to keep up with the ever changing YT Revanced, and easily install/reinstall the App when the revanced team makes some major changes.
 
 ## I'll add the steps properly with pictures in the future. For now, here are the steps:
